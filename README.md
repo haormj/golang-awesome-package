@@ -7,7 +7,7 @@
 ## 列表
 
 - golang.org/x/sync/errgroup
-
+- github.com/shirou/gopsutil 获取系统和进程一些资源使用情况
 
 ## 使用示例
 
